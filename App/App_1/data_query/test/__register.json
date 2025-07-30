@@ -1,0 +1,60 @@
+{
+    "api_name": "variable_Rs5ZIZik2guPBY38A1749549919515",
+    "cat_id": "__REPLACE_CAT_ID_100002___",
+    "cat_name": "__REPLACE_CAT_NAME_100002___",
+    "sub_cat_name": "test",
+    "cat_icon_url": "./Images/dblogos/postgres.png",
+    "method": "db_query",
+    "query": {},
+    "param": {},
+    "header": {},
+    "body": {
+        "mode": "db_query",
+        "formdata": {},
+        "variables": {
+            "data_4": {
+                "keyName": "data_4",
+                "isField": true,
+                "keyType": "text",
+                "keyValue": "{{variable_RXfHTGyyRZpt05ZiI1749450738183}}",
+                "testValue": [
+                    "a",
+                    "b"
+                ],
+                "preselect": false,
+                "name": "",
+                "label": "",
+                "isDynamic": false,
+                "keyNameMapping": [],
+                "editor_type": "JSEditor"
+            }
+        }
+    },
+    "auth": {},
+    "triggerOnPageload": false,
+    "autoTransform": false,
+    "execution_editor_type": "JSEditor",
+    "execution_condition_variable_with_name": "",
+    "execution_condition_variable": "",
+    "error_msg": "",
+    "scheme_type": "db_connector",
+    "account_id": "__REPLACE_ACCOUNT_ID_100002___",
+    "filterObjectMapping": [],
+    "sanitizeResponseFlag": false,
+    "allow_offline_submission": false,
+    "download_as_file": false,
+    "secureResponse": false,
+    "rawResponse": [],
+    "processedResp": {},
+    "paginationType": "none",
+    "offsetKeyPath": "",
+    "hasMoreKeyPath": "",
+    "misc": {},
+    "additionalKeywords": {},
+    "formatedSchema": {},
+    "bindedTo": "variable",
+    "createdVia": "variable",
+    "resource_reference": "__REPLACE_RESOURCE_REFERENCE_ID__",
+    "filterKeysOptions": {},
+    "cat_type": "postgres"
+}

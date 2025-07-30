@@ -1,0 +1,20 @@
+[
+    {
+        "field": "Id",
+        "display_name": "Id",
+        "data_type": "number",
+        "field_database_editor_data_format": "single_line_text"
+    },
+    {
+        "field": "Nom",
+        "display_name": "Nom",
+        "data_type": "string",
+        "field_database_editor_data_format": "single_line_text"
+    },
+    {
+        "field": "Icon",
+        "display_name": "Icon",
+        "data_type": "string",
+        "field_database_editor_data_format": "single_line_text"
+    }
+]

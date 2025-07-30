@@ -1,0 +1,14 @@
+{
+    "value_select": {
+        "events": [
+            "click"
+        ],
+        "selector": ""
+    },
+    "manual_select": {
+        "events": [
+            "manual_select"
+        ],
+        "selector": ""
+    }
+}
