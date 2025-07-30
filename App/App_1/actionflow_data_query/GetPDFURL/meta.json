@@ -1,0 +1,32 @@
+{
+    "__dhq_formula_Dtype": "string",
+    "__dhq_keywords_mapping_Dtype": "object",
+    "allow_offline_submission": false,
+    "auto_evaluate": false,
+    "created_at": 1748925983138,
+    "datatype": "string",
+    "defaultValue": "",
+    "dhq_req_stats": {},
+    "dhq_set_value_via_action": false,
+    "display_name": "GetPDFURL",
+    "download_as_file": false,
+    "evaluate_on_dependency_change": "manual",
+    "field_composition_type": "variable",
+    "field_data_model_binding_manual_query": "BINDAPI([variable_RshdzBZCjPTi6pP8u1748925983138])",
+    "field_data_model_binding_manual_query_with_id": "BINDAPI( [variable_RshdzBZCjPTi6pP8u1748925983138])",
+    "field_data_model_binding_type": "",
+    "formula_binded_to": "PDFCreator",
+    "interval": {
+        "instance": null,
+        "timeout": null
+    },
+    "is_dql": false,
+    "is_from_action_flow": true,
+    "is_master_variable": false,
+    "name": "variable_RshdzBZCjPTi6pP8u1748925983138",
+    "sanitize_response_keys": false,
+    "sb_mode": "JS",
+    "state": "error",
+    "type": "non-persistent",
+    "variable_parent_folder_id": null
+}

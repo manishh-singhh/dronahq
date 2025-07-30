@@ -1,0 +1,133 @@
+{
+    "event_name": "button_click",
+    "selector": ".control-button",
+    "event_type": "click",
+    "actionflow_id": "af_Button1_c255RioSQzmWxtJDNwELP_button_click_click",
+    "next_actions": [
+        "R5kGb5hIiajhdrq4c"
+    ],
+    "prev_actions": [],
+    "actions": [
+        {
+            "id": "R5kGb5hIiajhdrq4c",
+            "execution_editor_type": "JSEditor",
+            "execution_condition_variable_with_name": "",
+            "execution_condition_variable": "",
+            "execution_environments": [
+                "dev",
+                "beta",
+                "prod"
+            ],
+            "unique_name": "js_script_1",
+            "label": "js_script_1",
+            "fields": {
+                "name": {
+                    "key": "name",
+                    "value": "variable_RgmXxfegaq9MiXR0F1748925848376",
+                    "name": "js_script_1",
+                    "label": "Select Variable\n   Select Variable",
+                    "isField": false,
+                    "isPreselect": false,
+                    "fieldValueType": "manual",
+                    "data_type": "text",
+                    "isDynamic": false,
+                    "editor_type": "",
+                    "evaluateValue": true
+                },
+                "custom_parameters": {
+                    "key": "custom_parameters",
+                    "value": "{}",
+                    "name": "{}",
+                    "label": "Custom parameters\n    Custom parameters",
+                    "isField": false,
+                    "isPreselect": false,
+                    "fieldValueType": "manual",
+                    "data_type": "object",
+                    "isDynamic": false,
+                    "editor_type": "JSEditor",
+                    "evaluateValue": true
+                }
+            },
+            "type": "TRIGGERDATAQUERY",
+            "outputs": [
+                {
+                    "key": "output",
+                    "value": "output",
+                    "isDefault": true
+                }
+            ],
+            "dual_output_action": true,
+            "wait_till_completion": true,
+            "offline_submission": false,
+            "downloadas_file": false,
+            "actions_on_positive": [],
+            "actions_on_negative": [],
+            "next_actions": [
+                "R8h1dGL4SFqmArGGR"
+            ],
+            "prev_actions": []
+        },
+        {
+            "id": "R8h1dGL4SFqmArGGR",
+            "execution_editor_type": "JSEditor",
+            "execution_condition_variable_with_name": "",
+            "execution_condition_variable": "",
+            "execution_environments": [
+                "dev",
+                "beta",
+                "prod"
+            ],
+            "unique_name": "GetPDFURL",
+            "label": "GetPDFURL",
+            "fields": {
+                "name": {
+                    "key": "name",
+                    "value": "variable_RshdzBZCjPTi6pP8u1748925983138",
+                    "name": "GetPDFURL",
+                    "label": "Select Variable\n   Select Variable",
+                    "isField": false,
+                    "isPreselect": false,
+                    "fieldValueType": "manual",
+                    "data_type": "text",
+                    "isDynamic": false,
+                    "editor_type": "",
+                    "evaluateValue": true
+                },
+                "custom_parameters": {
+                    "key": "custom_parameters",
+                    "value": "{\"templateId\":\"683dac6f36441e001390721c\",\"pdfName\":\"\",\"password\":\"\",\"formJSON\":\"[   {     \\\"name\\\": \\\"Textbox1\\\",     \\\"type\\\": \\\"text\\\",     \\\"value\\\": \\{{text_c225R6k8GvjQdWhQsczG7}}\\\"   },   {     \\\"name\\\": \\\"Textbox2\\\",     \\\"type\\\": \\\"text\\\",     \\\"value\\\": \\{{text_c224RWOImGKuns3zPlMwe}}\\\"   },   {     \\\"name\\\": \\\"Textbox3\\\",     \\\"type\\\": \\\"text\\\",     \\\"value\\\": \\{{text_c226RX43sz1Qt9Jec7Lm1}}\\\"   },   {     \\\"name\\\": \\\"Textbox4\\\",     \\\"type\\\": \\\"text\\\",     \\\"value\\\": \\{{text_c233RDewKMQKMaCBtwMKK}}\\\"   },   {     \\\"name\\\": \\\"Textbox5\\\",     \\\"type\\\": \\\"text\\\",     \\\"value\\\": \\{{text_c227RYwlmsdFZCriaO1Jt}}\\\"   },   {     \\\"name\\\": \\\"Textbox6\\\",     \\\"type\\\": \\\"text\\\",     \\\"value\\\": \\{{text_c228Rgiey8mIzNrhdlpAn}}\\\"   },   {     \\\"name\\\": \\\"Textbox7\\\",     \\\"type\\\": \\\"text\\\",     \\\"value\\\": \\{{text_c229RwvjssTjJWOlTkYyU}}\\\"   },   {     \\\"name\\\": \\\"Textbox8\\\",     \\\"type\\\": \\\"text\\\",     \\\"value\\\": \\{{text_c230R5BVP2uBD0FfHFItR}}\\\"   },   {     \\\"name\\\": \\\"Textbox9\\\",     \\\"type\\\": \\\"text\\\",     \\\"value\\\": \\{{text_c234RlHzMA2H6Dgg5byPv}}\\\"   },   {     \\\"name\\\": \\\"Textbox10\\\",     \\\"type\\\": \\\"text\\\",     \\\"value\\\": \\{{text_c231RScmZ8pGJRA93gLWv}}\\\"   },   {     \\\"name\\\": \\\"Textbox11\\\",     \\\"type\\\": \\\"text\\\",     \\\"value\\\": \\{{text_c231RScmZ8pGJRA93gLWv}}\\\"   },   {     \\\"name\\\": \\\"Signature12\\\",     \\\"type\\\": \\\"image/png\\\",     \\\"value\\\": \\{{variable_RgmXxfegaq9MiXR0F1748925848376}}\\\"   },   {     \\\"name\\\": \\\"Check Box13\\\",     \\\"type\\\": \\\"checkbox\\\",     \\\"value\\\": {{dhq_select_button_c249RLs0mbnsLhpNJCBN1}}   },   {     \\\"name\\\": \\\"Check Box14\\\",     \\\"type\\\": \\\"checkbox\\\",     \\\"value\\\": {{dhq_select_button_c249RLs0mbnsLhpNJCBN1}}   },   {     \\\"name\\\": \\\"Check Box15\\\",     \\\"type\\\": \\\"checkbox\\\",     \\\"value\\\": {{dhq_select_button_c249RLs0mbnsLhpNJCBN1}}   },   {     \\\"name\\\": \\\"Check Box16\\\",     \\\"type\\\": \\\"checkbox\\\",     \\\"value\\\": {{dhq_select_button_c251RqoivID6ztv21V2w4}}   },   {     \\\"name\\\": \\\"Check Box17\\\",     \\\"type\\\": \\\"checkbox\\\",     \\\"value\\\": {{dhq_select_button_c251RqoivID6ztv21V2w4}}   },   {     \\\"name\\\": \\\"Signature18\\\",     \\\"type\\\": \\\"text\\\",     \\\"value\\\": \\\"\\\"   },   {     \\\"name\\\": \\\"Textbox19\\\",     \\\"type\\\": \\\"text\\\",     \\\"value\\\": \\\"kkk\\\"   } ]\",\"flattenFormFields\":\"\"}",
+                    "name": "{\"templateId\":\"683dac6f36441e001390721c\",\"pdfName\":\"\",\"password\":\"\",\"formJSON\":\"[   {     \\\"name\\\": \\\"Textbox1\\\",     \\\"type\\\": \\\"text\\\",     \\\"value\\\": \\{{firstnamec}}\\\"   },   {     \\\"name\\\": \\\"Textbox2\\\",     \\\"type\\\": \\\"text\\\",     \\\"value\\\": \\{{lastnamec}}\\\"   },   {     \\\"name\\\": \\\"Textbox3\\\",     \\\"type\\\": \\\"text\\\",     \\\"value\\\": \\{{middle}}\\\"   },   {     \\\"name\\\": \\\"Textbox4\\\",     \\\"type\\\": \\\"text\\\",     \\\"value\\\": \\{{dob}}\\\"   },   {     \\\"name\\\": \\\"Textbox5\\\",     \\\"type\\\": \\\"text\\\",     \\\"value\\\": \\{{address}}\\\"   },   {     \\\"name\\\": \\\"Textbox6\\\",     \\\"type\\\": \\\"text\\\",     \\\"value\\\": \\{{city}}\\\"   },   {     \\\"name\\\": \\\"Textbox7\\\",     \\\"type\\\": \\\"text\\\",     \\\"value\\\": \\{{state}}\\\"   },   {     \\\"name\\\": \\\"Textbox8\\\",     \\\"type\\\": \\\"text\\\",     \\\"value\\\": \\{{zip}}\\\"   },   {     \\\"name\\\": \\\"Textbox9\\\",     \\\"type\\\": \\\"text\\\",     \\\"value\\\": \\{{email}}\\\"   },   {     \\\"name\\\": \\\"Textbox10\\\",     \\\"type\\\": \\\"text\\\",     \\\"value\\\": \\{{telephone1}}\\\"   },   {     \\\"name\\\": \\\"Textbox11\\\",     \\\"type\\\": \\\"text\\\",     \\\"value\\\": \\{{telephone1}}\\\"   },   {     \\\"name\\\": \\\"Signature12\\\",     \\\"type\\\": \\\"image/png\\\",     \\\"value\\\": \\{{js_script_1}}\\\"   },   {     \\\"name\\\": \\\"Check Box13\\\",     \\\"type\\\": \\\"checkbox\\\",     \\\"value\\\": {{applicanttype}}   },   {     \\\"name\\\": \\\"Check Box14\\\",     \\\"type\\\": \\\"checkbox\\\",     \\\"value\\\": {{applicanttype}}   },   {     \\\"name\\\": \\\"Check Box15\\\",     \\\"type\\\": \\\"checkbox\\\",     \\\"value\\\": {{applicanttype}}   },   {     \\\"name\\\": \\\"Check Box16\\\",     \\\"type\\\": \\\"checkbox\\\",     \\\"value\\\": {{acknowledgement}}   },   {     \\\"name\\\": \\\"Check Box17\\\",     \\\"type\\\": \\\"checkbox\\\",     \\\"value\\\": {{acknowledgement}}   },   {     \\\"name\\\": \\\"Signature18\\\",     \\\"type\\\": \\\"text\\\",     \\\"value\\\": \\\"\\\"   },   {     \\\"name\\\": \\\"Textbox19\\\",     \\\"type\\\": \\\"text\\\",     \\\"value\\\": \\\"kkk\\\"   } ]\",\"flattenFormFields\":\"\"}",
+                    "label": "Custom parameters\n    Custom parameters",
+                    "isField": false,
+                    "isPreselect": false,
+                    "fieldValueType": "manual",
+                    "data_type": "object",
+                    "isDynamic": false,
+                    "editor_type": "JSEditor",
+                    "evaluateValue": true
+                }
+            },
+            "type": "TRIGGERDATAQUERY",
+            "outputs": [
+                {
+                    "key": "output",
+                    "value": "output",
+                    "isDefault": true
+                }
+            ],
+            "dual_output_action": true,
+            "wait_till_completion": true,
+            "offline_submission": false,
+            "downloadas_file": false,
+            "actions_on_positive": [],
+            "actions_on_negative": [],
+            "next_actions": [],
+            "prev_actions": [
+                "R5kGb5hIiajhdrq4c"
+            ]
+        }
+    ],
+    "category": "",
+    "interval": "",
+    "action_label": ""
+}

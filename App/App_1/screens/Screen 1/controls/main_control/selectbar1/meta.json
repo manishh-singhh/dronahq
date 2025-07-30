@@ -1,0 +1,351 @@
+{
+    "__dhq_default_formula_Dtype": "string",
+    "__dhq_formula_Dtype": "string",
+    "__dhq_keywords_mapping_Dtype": "object",
+    "__LiveData_Dtype": "object",
+    "allow_options_addition_in_editor": true,
+    "bar_type": "scroll",
+    "bottom_label": false,
+    "bottomfontproperty_font_size": "var(--DHQ-normal-font)",
+    "bottomfontproperty_font_size_unit": "",
+    "bottomfontproperty_font_weight": "var(--DHQ-bold)",
+    "bottomfontproperty_text_color": "var(--DHQ-primary-font-color)",
+    "caching": false,
+    "cid": "c746RiQ6bTg2gxQ67XWGR",
+    "class_name": "test",
+    "color_column": "",
+    "color1": "var(--DHQ-primary-color)",
+    "color10": "var(--DHQ-primary-color)",
+    "color2": "var(--DHQ-primary-color)",
+    "color3": "var(--DHQ-primary-color)",
+    "color4": "var(--DHQ-primary-color)",
+    "color5": "var(--DHQ-primary-color)",
+    "color6": "var(--DHQ-primary-color)",
+    "color7": "var(--DHQ-primary-color)",
+    "color8": "var(--DHQ-primary-color)",
+    "color9": "var(--DHQ-primary-color)",
+    "create_headers": false,
+    "ctrl_id": "",
+    "data_submission_enabled": true,
+    "data_type": "string",
+    "default_field_options_structure": {
+        "name": "option",
+        "selected": false,
+        "color": "var(--DHQ-primary-color)"
+    },
+    "desc_column": "",
+    "desc_font_size": "var(--DHQ-x-small-font)",
+    "desc_font_size_unit": "",
+    "desc_font_weight": "var(--DHQ-bold)",
+    "desc_text_color": "var(--DHQ-primary-font-color)",
+    "dfmv_option_enabled": true,
+    "dfmv_selected": "default",
+    "dhq_config": {
+        "strict_update": [
+            "ui_input_config",
+            "enable_ui_input",
+            "for_localization",
+            "show_new_property"
+        ],
+        "update_to_theme_varaibles": [
+            "formbuilder_theme",
+            "label_text_color",
+            "label_font_weight",
+            "label_font_size",
+            "fontproperty_font_weight",
+            "fontproperty_text_color",
+            "fontproperty_font_size",
+            "fontproperty_font_size_unit",
+            "bottomfontproperty_font_weight",
+            "bottomfontproperty_text_color",
+            "bottomfontproperty_font_size",
+            "bottomfontproperty_font_size_unit",
+            "color1",
+            "color2",
+            "color3",
+            "color4",
+            "color5",
+            "color6",
+            "color7",
+            "color8",
+            "color9",
+            "color10"
+        ]
+    },
+    "dhq_data_process": "",
+    "dhq_default_data_process": "",
+    "dhq_default_keywords_mapping": [],
+    "dhq_external_css": {
+        "addCode": false,
+        "data": {}
+    },
+    "dhq_nsf_replaced": false,
+    "dhq_olddt_map": {
+        "value": "value",
+        "name": "name",
+        "description": "description",
+        "color": "color",
+        "image": "image",
+        "_isSelected": "_isSelected"
+    },
+    "dhq_req_stats": {
+        "status": ""
+    },
+    "dhq_submit_condition": "always",
+    "dhq_tfd": true,
+    "dhqEvtConverted": true,
+    "dhqGrid": {
+        "w": 12,
+        "h": 9,
+        "x": 5,
+        "y": 22
+    },
+    "dhqGridChanged": false,
+    "dhqGridDesktop": {
+        "w": 12,
+        "h": 9,
+        "x": 5,
+        "y": 22
+    },
+    "disabled": false,
+    "enable_ui_input": true,
+    "error_text": "var(--DHQ-error-color)",
+    "field_available_in_database_editor": false,
+    "field_composition_type": "list",
+    "field_config": {},
+    "field_data_model": "",
+    "field_data_model_binding_default_value_query": "DATABUILDER()",
+    "field_data_model_binding_default_value_query_with_id": "DATABUILDER()",
+    "field_data_model_binding_formula": "",
+    "field_data_model_binding_manual_query": "DATABUILDER()",
+    "field_data_model_binding_manual_query_with_id": "DATABUILDER()",
+    "field_data_model_binding_type": "manual_query",
+    "field_database_editor_data_format": "single_select",
+    "field_datatypes": [
+        {
+            "field": "value",
+            "display_name": "value",
+            "data_type": "string",
+            "field_database_editor_data_format": "single_line_text"
+        },
+        {
+            "field": "name",
+            "display_name": "name",
+            "data_type": "string",
+            "field_database_editor_data_format": "single_line_text"
+        },
+        {
+            "field": "description",
+            "display_name": "description",
+            "data_type": "string",
+            "field_database_editor_data_format": "single_line_text"
+        },
+        {
+            "field": "color",
+            "display_name": "color",
+            "data_type": "string",
+            "field_database_editor_data_format": "single_line_text"
+        },
+        {
+            "field": "image",
+            "display_name": "image",
+            "data_type": "string",
+            "field_database_editor_data_format": "single_line_text"
+        },
+        {
+            "field": "_isSelected",
+            "display_name": "_isSelected",
+            "data_type": "boolean",
+            "field_database_editor_data_format": "single_line_text"
+        }
+    ],
+    "field_display_key_name": "selectbar1",
+    "field_editable_in_database_editor": true,
+    "field_fullview": false,
+    "field_key_name": "dhq_select_bar_c746RiQ6bTg2gxQ67XWGR",
+    "field_options": {
+        "options": [
+            {
+                "value": "1",
+                "name": "opt1",
+                "description": "",
+                "color": "#26bc6a",
+                "image": "https://dronamobilepublic.s3.amazonaws.com/DRONA5_Team108/content/app/images/public/Tick_c5Abe.svg",
+                "_isSelected": false
+            },
+            {
+                "value": "2",
+                "name": "opt2",
+                "description": "",
+                "color": "#FF5656",
+                "image": "https://dronamobilepublic.s3.amazonaws.com/DRONA5_Team108/content/app/images/public/Close_L8P9q.svg",
+                "_isSelected": false
+            },
+            {
+                "value": "opt3",
+                "name": "3",
+                "description": "",
+                "color": "#F5AB00",
+                "image": "https://dronamobilepublic.s3.amazonaws.com/DRONA5_Team108/content/app/images/public/Info_BCFfd.svg",
+                "_isSelected": false
+            }
+        ]
+    },
+    "field_responsive": true,
+    "field_schema_column_header_names": "value,name,description,color,image,_isSelected",
+    "field_schema_column_id_header_name_mapping": {
+        "value": "value",
+        "name": "name",
+        "description": "description",
+        "color": "color",
+        "image": "image",
+        "_isSelected": "_isSelected"
+    },
+    "field_type": "dhq_select_bar",
+    "field_values_addition_enabled_in_database_editor": true,
+    "field_values_source": "field_options.options",
+    "fontproperty_font_size": "var(--DHQ-normal-font)",
+    "fontproperty_font_size_unit": "",
+    "fontproperty_font_weight": "var(--DHQ-normal-weight)",
+    "fontproperty_text_color": "var(--DHQ-primary-font-color)",
+    "for_localization": {
+        "static_msgs": [
+            "Please select atleast one option",
+            "Please select the title column and the value column."
+        ],
+        "dynamic_msgs_keys": [
+            "label"
+        ],
+        "concated_msgs": []
+    },
+    "formbuilder_theme": "var(--DHQ-primary-light-color)",
+    "grid_dynamic_height": true,
+    "grid_maintain_space": false,
+    "grid_max_height": "",
+    "grid_max_height_unit": "px",
+    "gridDesktopOrigin": null,
+    "hidden": false,
+    "icon_column": "",
+    "image_column": "",
+    "img_border_radius": 1,
+    "img_border_radius_unit": "rem",
+    "input_control_height": "2.5rem",
+    "input_font_color": "var(--DHQ-primary-font-color)",
+    "input_font_size": "var(--DHQ-normal-font)",
+    "input_font_weight": "var(--DHQ-normal-weight)",
+    "input_placeholder_font_weight": "var(--DHQ-normal-weight)",
+    "input_placeholder_text_color": "#aaaaaa",
+    "input_placeholder_text_size": "var(--DHQ-small-font)",
+    "is_color_configurable": false,
+    "is_master_control": true,
+    "is_outlet_control": false,
+    "is_repeat_outlet_control": false,
+    "is_variable": false,
+    "isDhqGridCtrl": true,
+    "isDhqHideOnDesktop": false,
+    "isDhqHideOnMobile": false,
+    "item_width": "20",
+    "item_width_unit": "%",
+    "label": "Select bar",
+    "label_font_size": "var(--DHQ-control-title)",
+    "label_font_size_unit": "",
+    "label_font_weight": "var(--DHQ-bold)",
+    "label_font_weight_class": "font-weight-normal",
+    "label_hidden": false,
+    "label_left_width": "33",
+    "label_left_width_unit": "%",
+    "label_position": "top",
+    "label_text_alignment": "left",
+    "label_text_color": "var(--DHQ-primary-font-color)",
+    "labelname_font_size": "var(--DHQ-normal-font)",
+    "labelname_font_size_unit": "",
+    "labelname_font_weight": "var(--DHQ-normal-weight)",
+    "labelname_text_color": "var(--DHQ-primary-font-color)",
+    "left_text": "Left",
+    "parent_id": "",
+    "prefix_column": "",
+    "question_type": "0",
+    "required": false,
+    "right_text": "Right",
+    "sb_mode": {
+        "main": "JS",
+        "default": "JS"
+    },
+    "select_type": "singleselect",
+    "selected_color": "",
+    "selected_desc_font_size": "var(--DHQ-x-small-font)",
+    "selected_desc_font_size_unit": "",
+    "selected_desc_font_weight": "var(--DHQ-bold)",
+    "selected_desc_text_color": "var(--DHQ-primary-font-color)",
+    "selected_title_font_size": "var(--DHQ-small-font)",
+    "selected_title_font_size_unit": " ",
+    "selected_title_font_weight": "var(--DHQ-normal-weight)",
+    "selected_title_text_color": "var(--DHQ-primary-font-color)",
+    "show_description": false,
+    "show_dfm": false,
+    "show_new_property": true,
+    "show_tooltip": false,
+    "sid": "sc746RiQ6bTg2gxQ67XWGR",
+    "tabIndex": "",
+    "tip_description": "",
+    "title_column": "name",
+    "title_font_size": "var(--DHQ-small-font)",
+    "title_font_size_unit": " ",
+    "title_font_weight": "var(--DHQ-normal-weight)",
+    "title_text_color": "var(--DHQ-primary-font-color)",
+    "tooltip": "",
+    "type": "input",
+    "ui_input_config": {
+        "type": "JSON_BUILDER",
+        "label": "Options",
+        "option": {
+            "schema": {
+                "value": "string",
+                "name": "string",
+                "description": "string",
+                "icon": "icon_picker",
+                "image": "file_upload",
+                "color": "color_picker",
+                "prefix": "string"
+            },
+            "requiredLabel": {
+                "value": true,
+                "name": false
+            },
+            "placeholder": {
+                "name": "value"
+            },
+            "onChange": {
+                "value": true
+            },
+            "default": {
+                "value": "Value 1",
+                "name": "",
+                "description": "",
+                "icon": "",
+                "image": "",
+                "color": "",
+                "prefix": ""
+            },
+            "replaceKeys": {
+                "name": "label"
+            },
+            "option_label_key": "value",
+            "enable_children": false,
+            "child_limit": 3,
+            "children_key": "options",
+            "optionalKeys": [
+                "options",
+                "description",
+                "icon",
+                "color",
+                "image",
+                "prefix"
+            ]
+        }
+    },
+    "unique_name_change": false,
+    "value_column": "value",
+    "visibility": true,
+    "wrapper_content_alignment": "flex-start"
+}

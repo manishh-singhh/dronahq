@@ -1,0 +1,41 @@
+{
+    "event_name": "app",
+    "selector": "",
+    "event_type": "open",
+    "actionflow_id": "af_app_RknQ9oztvVfiQmzUk_app_open",
+    "next_actions": [
+        "RdLs0UqDlSDajXsG0"
+    ],
+    "prev_actions": [],
+    "actions": [
+        {
+            "type": "CONDITIONALBRANCH",
+            "name": "CONDITIONALBRANCH",
+            "id": "RdLs0UqDlSDajXsG0",
+            "branches": [
+                {
+                    "id": "RMJ6PeekF0yLmI8p4",
+                    "branch_name": "branch_1",
+                    "branch_condition": "",
+                    "actions": []
+                },
+                {
+                    "id": "RI26xj404dh9GqLpS",
+                    "branch_name": "branch_2",
+                    "branch_condition": "",
+                    "actions": [],
+                    "editor_type": "JSEditor",
+                    "branch_condition_name": ""
+                }
+            ],
+            "branch_count": 0,
+            "next_actions": [],
+            "prev_actions": [],
+            "lastActionId": [],
+            "firstActionId": []
+        }
+    ],
+    "category": "",
+    "interval": "",
+    "action_label": ""
+}

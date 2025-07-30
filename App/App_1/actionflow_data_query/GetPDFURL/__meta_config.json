@@ -1,0 +1,41 @@
+{
+    "TIMESTAMP": {
+        "request_arrival": 1748926056737,
+        "request_validation": 1748926056737,
+        "query_preparation": 1748926056828,
+        "query_execution": 1748926056829,
+        "post_processing": null,
+        "response": 1748926056868,
+        "transfer_data_arrival": 1748926056908,
+        "dataquery_preparation_arrival": 1748926056748
+    },
+    "HEADERS": {
+        "x_powered_by": "Express",
+        "access_control_allow_origin": "*",
+        "content_type": "text/html; charset=utf-8",
+        "content_length": "42",
+        "etag": "W/\"2a-srMAsf9C9V+JJUeG97Z6KJYR09A\"",
+        "set_cookie": [
+            "DSSID=s%3ABX0hQr_DnvCMl31j0BKSujvTQ4lL514q.bNCdJtf2c2n9lj9IF%2FGoKLQy8mLQ9HUP1iDo8euSpRk; Path=/; Expires=Thu, 05 Jun 2025 04:47:36 GMT; HttpOnly"
+        ],
+        "vary": "Accept-Encoding",
+        "date": "Tue, 03 Jun 2025 04:47:36 GMT",
+        "connection": "close"
+    },
+    "RESPONSE_CODE": 403,
+    "RESPONSE_MESSAGE": "Forbidden",
+    "FAILURE_CODE": "",
+    "FAILURE_MESSAGE": "",
+    "DURATION": {
+        "turn_around": 131,
+        "authentication": 0,
+        "validation": 91,
+        "preparation": 1,
+        "execution": 39,
+        "processing": null,
+        "transfer_data": 19,
+        "transform_response": 0,
+        "prepare_data_query": 10
+    },
+    "RESPONSE_SIZE": 42
+}
