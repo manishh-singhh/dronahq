@@ -1,3 +1,0 @@
-1 Passion To Care, LLC Name of Facility 5565 Glenridge Connector NE, Suite 500
-
-I hereby authorize the Georgia Department of Community Health (DCH), Office of Inspector General, to receive any criminal history record information pertaining to me which may be in the files of any state or local criminal justice agency in Georgia. I understand a State and Federal fingerprint criminal background check will be conducted. By signing below, I am indicating that I have read and understand the terms and conditions of the attached Non-Criminal Justice Applicant's Privacy Rights and Policy Act Statements.

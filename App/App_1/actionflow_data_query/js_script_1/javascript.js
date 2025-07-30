@@ -1,2 +1,0 @@
-
-output = "https://prod-dronamanaged-s3.s3.us-east-2.amazonaws.com/FingerPrintForms/_FPForm.png"

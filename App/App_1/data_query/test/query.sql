@@ -1,1 +1,0 @@
-INSERT INTO prepared_statement (a) VALUES ('{{data_4}}')
