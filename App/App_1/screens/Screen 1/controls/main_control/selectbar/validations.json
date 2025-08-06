@@ -1,1 +1,21 @@
-[]
+[
+    [
+        {
+            "mode": "UI",
+            "operator": "$noteq",
+            "jsEditor": {
+                "condition_string": "",
+                "query_string_id": "",
+                "error_message": ""
+            },
+            "field2_type": "value",
+            "field2": {
+                "id": "",
+                "name": ""
+            },
+            "value": "wqf",
+            "caseSensitive": false,
+            "error_message": "wddv  cs"
+        }
+    ]
+]
