@@ -150,7 +150,6 @@
     "navigate_to": "",
     "navigation_enabled": false,
     "navigation_transition": "",
-    "parent_id": "",
     "prefix_icon": "fas fa-arrow-circle-right",
     "required": false,
     "sb_mode": "JS",

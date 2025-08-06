@@ -262,7 +262,6 @@
     "labelname_font_weight": "var(--DHQ-normal-weight)",
     "labelname_text_color": "var(--DHQ-primary-font-color)",
     "left_text": "Left",
-    "parent_id": "",
     "prefix_column": "",
     "question_type": "0",
     "required": false,

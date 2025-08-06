@@ -236,7 +236,6 @@
     "normal_tag_icon_color": "var(--DHQ-neutral-font-color)",
     "padding": 0.375,
     "padding_unit": "rem",
-    "parent_id": "",
     "positive_S_icon": "fas fa-plus",
     "positive_S_show_icon": false,
     "positive_tag_bg_color": "var(--DHQ-success-color)",
