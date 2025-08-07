@@ -1,7 +1,7 @@
 {
     "name": "variable_Rs5ZIZik2guPBY38A1749549919515",
-    "channel_id": "__REPLACE_CHANNEL_ID___",
-    "category_id": "__REPLACE_CAT_ID_100002___",
+    "channel_id": 2,
+    "category_id": 100002,
     "sub_category_id": null,
     "response": {
         "success": true,
@@ -75,7 +75,7 @@
             "query": [],
             "param": []
         },
-        "account_id": "__REPLACE_ACCOUNT_ID_100002___",
+        "account_id": "account_38482300_1749549898816",
         "description": "",
         "remove_empty_keys": false,
         "skip_uri_component_encoding": false,
@@ -87,5 +87,5 @@
     "meta": "",
     "isAppInternalSubcat": 1,
     "bindable": true,
-    "resource_reference": "__REPLACE_RESOURCE_REFERENCE_ID__"
+    "resource_reference": "resource_reference_R94ouRvcvlejvmmzS1753847767669"
 }

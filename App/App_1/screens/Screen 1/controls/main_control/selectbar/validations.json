@@ -1,12 +1,13 @@
 [
     [
         {
-            "mode": "UI",
+            "mode": "jsEditor",
             "operator": "$noteq",
             "jsEditor": {
-                "condition_string": "",
-                "query_string_id": "",
-                "error_message": ""
+                "condition_string": "{{kjfggwuf}}",
+                "query_string_id": "{{}}",
+                "error_message": "fwedf",
+                "dependency_mapping": []
             },
             "field2_type": "value",
             "field2": {
