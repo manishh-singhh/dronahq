@@ -1,7 +1,7 @@
 {
     "api_name": "variable_Rs5ZIZik2guPBY38A1749549919515",
-    "cat_id": "__REPLACE_CAT_ID_100002___",
-    "cat_name": "__REPLACE_CAT_NAME_100002___",
+    "cat_id": 100002,
+    "cat_name": "Manish_test",
     "sub_cat_name": "test",
     "cat_icon_url": "./Images/dblogos/postgres.png",
     "method": "db_query",
@@ -38,7 +38,7 @@
     "execution_condition_variable": "",
     "error_msg": "",
     "scheme_type": "db_connector",
-    "account_id": "__REPLACE_ACCOUNT_ID_100002___",
+    "account_id": "account_38482300_1749549898816",
     "filterObjectMapping": [],
     "sanitizeResponseFlag": false,
     "allow_offline_submission": false,
@@ -54,7 +54,7 @@
     "formatedSchema": {},
     "bindedTo": "variable",
     "createdVia": "variable",
-    "resource_reference": "__REPLACE_RESOURCE_REFERENCE_ID__",
+    "resource_reference": "resource_reference_R94ouRvcvlejvmmzS1753847767669",
     "filterKeysOptions": {},
     "cat_type": "postgres"
 }

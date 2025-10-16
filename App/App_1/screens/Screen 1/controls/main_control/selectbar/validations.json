@@ -1,1 +1,22 @@
-[]
+[
+    [
+        {
+            "mode": "jsEditor",
+            "operator": "$noteq",
+            "jsEditor": {
+                "condition_string": "{{kjfggwuf}}",
+                "query_string_id": "{{}}",
+                "error_message": "fwedf",
+                "dependency_mapping": []
+            },
+            "field2_type": "value",
+            "field2": {
+                "id": "",
+                "name": ""
+            },
+            "value": "wqf",
+            "caseSensitive": false,
+            "error_message": "wddv  cs"
+        }
+    ]
+]

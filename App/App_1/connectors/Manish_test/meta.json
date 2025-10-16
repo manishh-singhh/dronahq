@@ -15,7 +15,7 @@
     "showAddOption": true,
     "cat_type": "postgres",
     "format_id": "5d37cd0d-45e2-11f0-a802-0242ac120003",
-    "permission": "1000",
+    "permission": "0010",
     "multistep_auth_steps": {},
     "channel_id": "2"
 }
